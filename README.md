@@ -1,6 +1,6 @@
  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+ ![](https://Nikitha2309-github.azurewebsites.net/api/VisitorHit?user=Nikitha2309&repo=Nikitha2309&countColorcountColor&countColor=%237B1E7A)
  - 👩‍🎓 I’m an Undergrad student at IIT Guwahati majoring in ECE with minor in CSE
  - 📌 I have enormous interest in Web Develpoment and Open Source.
  - 🧐 Have a glance of my work [here](https://github.com/Nikitha2309)
