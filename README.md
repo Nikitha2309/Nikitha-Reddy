@@ -2,6 +2,11 @@
  
  [![Visits Badge](https://badges.pufler.dev/visits/Nikitha2309/Nikitha-Reddy)](https://badges.pufler.dev/visits/Nikitha2309/Nikitha-Reddy)
 
+ - 👩‍🎓 I’m an Undergrad student at IIT Guwahati majoring in ECE with minor in CSE
+ - 📌 I have enormous interest in Web Develpoment and Open Source.
+ - 🧐 Have a glance of my work [here](https://github.com/Nikitha2309)
+ - 💻 Interested in Competitive Coding in C and C++
+ - 💬 Let's chat about Technological wonders
 
 ### 🤝Let's Connect 
 
@@ -14,7 +19,7 @@
 
   
   
-  #### 👨🏻‍💻 Languages and Tools <br />
+  ### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -26,7 +31,7 @@
   
   
   
- #### 💻 My Stats <br /> 
+ ### 💻 My Stats <br /> 
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=Nikitha2309&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
