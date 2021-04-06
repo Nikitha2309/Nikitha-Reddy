@@ -20,8 +20,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=Nikitha2309&show_icons=true&theme=radical)] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Nikitha2309&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true) (https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
   
