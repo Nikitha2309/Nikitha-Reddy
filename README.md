@@ -1,7 +1,8 @@
  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  
- [![Visits Badge](https://badges.pufler.dev/visits/Nikitha2309/Nikitha-Reddy)](https://badges.pufler.dev/visits/Nikitha2309/Nikitha-Reddy)
+![visitor badge](https://Nikitha2309.glitch.me/badge?page_id=Nikitha2309.Nikitha2309)
+
  - 👩‍🎓 I’m an Undergrad student at IIT Guwahati majoring in ECE with minor in CSE
  - 📌 I have enormous interest in Web Develpoment and Open Source.
  - 🧐 Have a glance of my work [here](https://github.com/Nikitha2309)
