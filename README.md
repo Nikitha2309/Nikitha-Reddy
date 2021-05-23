@@ -1,7 +1,8 @@
  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  
- - 👩‍🎓 I’m an Undergrad student at IIT Guwahati majoring in ECE with minor in CSE
+ - 😀 I'm a STEP Intern at Google
+ - 👩‍🎓 An Undergrad student at IIT Guwahati majoring in ECE with minor in CSE
  - 📌 I have enormous interest in Web Develpoment and Open Source.
  - 🧐 Have a glance of my work [here](https://github.com/Nikitha2309)
  - 💻 Interested in Competitive Coding in C and C++
