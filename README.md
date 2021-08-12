@@ -9,6 +9,7 @@
  - 💻 Interested in Competitive Coding && Passionate in Web Development.
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
+ - 🙂 Know more about me [here](https://nikitha2309.github.io/Portfolio/)
 
 
 
