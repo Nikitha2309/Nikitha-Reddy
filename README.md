@@ -1,5 +1,5 @@
  ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="400">
+ <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="370">
 <!--  ![girl-_-laptop](https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif) -->
 
 
