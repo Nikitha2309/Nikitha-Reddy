@@ -48,7 +48,7 @@
   
 <!--   <a href="https://github.com/ishubham21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" /> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitha2309&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitha2309&show_icons=true&theme=radical" />
 <!-- </a> -->
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
