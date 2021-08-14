@@ -1,4 +1,4 @@
- ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320">
 <!--  ![girl-_-laptop](https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif) -->
 
@@ -16,7 +16,7 @@
 
 
 
-### 🤝Let's Connect 
+## 🤝Let's Connect 
 
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" width="3.5%"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp; 
@@ -30,7 +30,7 @@
 
 
   
-  ### 👨🏻‍💻 Languages and Tools <br />
+  ## 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -45,7 +45,7 @@
  
  
   
- ### 💻 My Stats <br /> 
+ ## 💻 My Stats <br /> 
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=Nikitha2309&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
