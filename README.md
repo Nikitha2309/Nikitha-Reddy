@@ -1,6 +1,6 @@
  # <p align="center" > Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
  
-## <p align="center" style="font-size:18 pt; font-color:F735F2"> I'm Nikitha Reddy <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&vCenter=true&height=18&color=F735F2&lines=a+Passionate+Coder;a+Full+Stack+Developer;a+Quick+Learner;a+Multitasker"></p>
+## <p align="center"> I'm Nikitha Reddy <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&vCenter=true&height=18&color=C80D15FF&lines=a+Passionate+Coder;a+Full+Stack+Developer;a+Quick+Learner;a+Multitasker"></p>
 
 <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320">
 
