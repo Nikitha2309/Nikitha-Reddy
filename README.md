@@ -16,6 +16,7 @@
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
  - 🙂 Know more about me [here](https://nikitha2309.github.io/Portfolio/)
+ <p align="left"> <img src=https://komarev.com/ghpvc/?username=Nikitha2309 alt=Nikitha2309/></p>
 
 
 
