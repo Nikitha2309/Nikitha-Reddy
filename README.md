@@ -34,7 +34,10 @@
 
 
   
-  ## 👨🏻‍💻 Languages and Tools <br />
+ ## 👨🏻‍💻 Languages and Tools <br />
+ 
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+  
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -48,10 +51,10 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
- ## 📈 My Contribuition Graph <br />
+## 📈 My Contribuition Graph <br />
  [![Nikitha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nikitha2309&theme=xcode)](https://git.io/Nikitha2309)
   
- ## 💻 My Stats <br /> 
+## 💻 My Stats <br /> 
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=Nikitha2309&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
@@ -62,5 +65,9 @@
 ## 🏆 My Trophies <br /> 
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
+## 🏆 My Streaks <br /> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nikitha2309&theme=tokyonight)
+
   
   
