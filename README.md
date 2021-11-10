@@ -2,6 +2,8 @@
  
 ## <p align="center"> I'm Nikitha Reddy, <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=C80D15FF&lines=a+Passionate+Coder;a+Full+Stack+Developer;a+Quick+Learner;a+Multitasker"></p>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Nikitha2309 alt=Nikitha2309/></p>
+
 <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320">
 
 
@@ -16,11 +18,10 @@
  - 💬 Let's chat about Technological wonders
  - 😀 I would love to collaborate for interesting projects.
  - 🙂 Know more about me [here](https://nikitha2309.github.io/Portfolio/)
- -  <p align="left"> <img src=https://komarev.com/ghpvc/?username=Nikitha2309 alt=Nikitha2309/></p>
 
 
 
-## 🤝Let's Connect 
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's Connect
 
 
 [<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" width="3.5%"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp; 
@@ -66,8 +67,13 @@
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=Nikitha2309&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
-## 🏆 My Streaks <br /> 
+## My Streaks <br /> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikitha2309&theme=tokyonight)
+
+## 📛 My Badges <br />
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 
   
   
