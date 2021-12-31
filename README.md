@@ -4,7 +4,10 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Nikitha2309 alt=Nikitha2309/></p>
 
-<img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320">
+<!-- <img align='right' src="https://user-images.githubusercontent.com/66035321/129452259-a82c41a7-4f28-4299-9efc-f153afd566b8.gif" width="320"> -->
+<img align='right' src="https://user-images.githubusercontent.com/66035321/147825697-55ffa62f-9408-499a-a6c7-94a3c3e9669b.gif" width="320">
+
+<!-- ![output-onlinegiftools](https://user-images.githubusercontent.com/66035321/147825697-55ffa62f-9408-499a-a6c7-94a3c3e9669b.gif) -->
 
 
 
