@@ -1,4 +1,4 @@
- # <p align="center" > Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+ # <p align="center" > Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </p>
  
 ## <p align="center"> I'm Nikitha Reddy, <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=C80D15FF&lines=a+Passionate+Coder;a+Full+Stack+Developer;a+Quick+Learner;a+Multitasker"></p>
 
@@ -24,7 +24,7 @@
 
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's Connect
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Let's Connect
 
 
 <!-- [<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" width="3.5%"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp;  -->
