@@ -1,4 +1,4 @@
- # <p align="center" > Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+ # <p align="center" > Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5vw"> </p>
  
 ## <p align="center"> I'm Nikitha Reddy, <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=C80D15FF&lines=a+Passionate+Coder;a+Full+Stack+Developer;a+Quick+Learner;a+Multitasker"></p>
 
