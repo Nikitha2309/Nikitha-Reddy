@@ -12,9 +12,9 @@
 
 
  
- - 😀 I was a STEP Intern at Google worked with Android TV team.
+ - 👩‍🎓 A B.Tech graduate from IIT Guwahati with ECE major & CSE minor
+ - 😀 I interned at Google for 2 consecutive summers, worked with Android TV team & Google Editors team.
  - 💻 I am a Microsoft Learn Student Ambassador.
- - 👩‍🎓 An Undergrad student at IIT Guwahati majoring in ECE with minor in CSE.
  - 📌 I have enormous interest in Web Develpoment and Open Source.
  - 🧐 Have a glance of my work [here](https://github.com/Nikitha2309?tab=repositories)
  - 💻 Interested in Competitive Coding && Passionate in Web Development.
